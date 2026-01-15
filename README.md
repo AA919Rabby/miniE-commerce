@@ -1,16 +1,42 @@
-# e_commerce
+1.Mini E-Commerce App
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+A simple Flutter E-Commerce App built using GetX and Firebase.
+Browse products, add to cart, and manage your shopping experience seamlessly.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+2.Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+view products 
+
+Add or remove products from the cart
+
+Delete products from carts
+
+User authentication with Firebase (Email,Password)
+
+Responsive UI with GetX for state management
+
+
+
+
+
+3.Technology Used
+
+
+
+Flutter – For UI/UX design
+
+GetX – State management & routing
+
+Firebase – Authentication & Firestore database
+
+
+
+
+5.Download APK
+
+You can download the app here:
+Download APK https://drive.google.com/file/d/1kkWZY5I7CiDd0hmgFqAS_oh6w9P4gFwk/view?usp=drive_link
