@@ -40,6 +40,34 @@ Firebase – Authentication & Firestore database
 
 
 
+
+
+
+4.Schreenshots
+
+
+
+
+[Loading schreen](Screenshot_20260115_153513.jpg)
+
+[Login schreen](Screenshot_20260115_153516.jpg)
+
+[sign up schreen](Screenshot_20260115_153520.jpg)
+
+[Products schreen](Screenshot_20260115_153623.jpg)
+
+[Payment schreen](Screenshot_20260115_153645.jpg)
+
+[Selected payment view](Screenshot_20260115_153652.jpg)
+
+[Payment history view](Screenshot_20260115_153707.jpg)
+
+
+
+
+
+
+
 5.Download APK
 
 You can download the app here:
