@@ -4,12 +4,16 @@
 
 
 A simple Flutter E-Commerce App built using GetX and Firebase.
-Browse products, add to cart, and manage your shopping experience seamlessly.
+Browse products, add to cart.
 
 2.Features
 
 
 view products 
+
+Fetch products from FakeStoreAPI
+
+Fake payment systems with payment history.
 
 Add or remove products from the cart
 
